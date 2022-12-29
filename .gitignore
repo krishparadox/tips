@@ -127,3 +127,39 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#idea
+.idea
+.idea/
+
+#pytest
+.pytest
+
+# Jupyter
+**.ipynb_checkpoints
+
+# DS store
+*.DS_Store
+
+#CRC Files
+*.crc
+
+# Docker
+docker-stacks/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+
+# Unit test, coverage files
+.pytest_cache
+
+
+# Distribution / packaging
+*.whl
+
+# Anovos-specific files and folders
+report_stats/
+output/
+*.tmp
+
